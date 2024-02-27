@@ -32,7 +32,7 @@ class HOME extends StatelessWidget {
               Row(
                 children: [
                   CircleAvatar(
-                    radius: 60,
+                    radius: 61,
                     backgroundImage: AssetImage("images/myphoto.jpeg"),
                   ),
                   SizedBox(
