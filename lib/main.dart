@@ -51,7 +51,7 @@ class HOME extends StatelessWidget {
                       Text(
                         'FLUTTER DEVLOPER',
                         style: TextStyle(
-                          fontSize: 18.0,
+                          fontSize: 19.0,
                           color: Colors.white,
                         ),
                       ),
@@ -198,7 +198,7 @@ class HOME extends StatelessWidget {
                 height: 22,
               ),
               Text(
-                'Created BY Piyush ',
+                'Created BY Piyush with ❤️  ',
                 style: TextStyle(color: Colors.white),
               ),
             ],
